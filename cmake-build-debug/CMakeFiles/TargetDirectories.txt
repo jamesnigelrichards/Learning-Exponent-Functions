@@ -1,0 +1,3 @@
+C:/Users/James Richards/CLionProjects/Learning Exponent Functions/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/James Richards/CLionProjects/Learning Exponent Functions/cmake-build-debug/CMakeFiles/Learning_Exponent_Functions.dir
+C:/Users/James Richards/CLionProjects/Learning Exponent Functions/cmake-build-debug/CMakeFiles/edit_cache.dir
